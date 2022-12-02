@@ -1,3 +1,5 @@
+package lv.acodemy;
+
 import io.github.bonigarcia.wdm.WebDriverManager;
 import lv.acodemy.page_object.InventoryPage;
 import lv.acodemy.page_object.LoginPage;

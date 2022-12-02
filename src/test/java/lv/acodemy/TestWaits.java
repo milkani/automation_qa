@@ -1,3 +1,5 @@
+package lv.acodemy;
+
 import lv.acodemy.constants.Generic;
 import org.openqa.selenium.By;
 import org.openqa.selenium.chrome.ChromeDriver;
